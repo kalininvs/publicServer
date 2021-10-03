@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\ServerARM.csproj": {}
+    "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\ServerARM.csproj": {}
   },
   "projects": {
-    "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\ServerARM.csproj": {
+    "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\ServerARM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\ServerARM.csproj",
+        "projectUniqueName": "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\ServerARM.csproj",
         "projectName": "ServerARM",
-        "projectPath": "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\ServerARM.csproj",
+        "projectPath": "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\ServerARM.csproj",
         "packagesPath": "C:\\Users\\mrsat\\.nuget\\packages\\",
-        "outputPath": "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\obj\\",
+        "outputPath": "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

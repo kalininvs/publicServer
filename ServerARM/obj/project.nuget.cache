@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVR1eRCAVUNFFxa8j1797l8317vtpGIwcHN+Z8j+fGjdAsU5o6TzIpyAvWOcf6Gw7adsU3CyXXjpFkO6k+VU3g==",
+  "dgSpecHash": "Hvt84KN/vYZIJRl9MZaj6jAAbgUhSlkp5YpHsZbMMe8dXpPF8PyznuVALtHb6jgrW5rEVLuChQYTgOkGKWoPtA==",
   "success": true,
-  "projectFilePath": "C:\\Диссертация\\ARM\\Server\\ServerARM\\ServerARM\\ServerARM.csproj",
+  "projectFilePath": "C:\\Users\\mrsat\\Source\\Repos\\pro100aut1st\\publicServer\\ServerARM\\ServerARM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrsat\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mrsat\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
